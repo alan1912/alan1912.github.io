@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Falan1912.github.io\u002F_nuxt\u002Fstatic\u002F1639545517",layout:"login",error:a,state:{authenticated:b,pageinfo:{page:""}},serverRendered:b,routePath:"\u002Flogin",config:{_app:{basePath:"\u002Falan1912.github.io\u002F",assetsPath:"\u002Falan1912.github.io\u002F_nuxt\u002F",cdnURL:a}}}}(null,true));

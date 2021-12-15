@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{281:function(t,e,n){"use strict";n.r(e);var o={layout:"admin",mounted:function(){this.$store.commit("changePage","customer3")}},c=n(23),component=Object(c.a)(o,(function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",[t._v("customer3")])}),[],!1,null,null,null);e.default=component.exports}}]);
